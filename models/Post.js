@@ -3,8 +3,7 @@ const {Model, DataTypes} = require('sequelize');
 const sequelize = require('../config/connection'); // connecting to mySQL using environment variables
 
 //--- Post Model ---//
-class Post extends Model {
-};
+class Post extends Model { };
 
 //--- Properties and Data Types ---//
 Post.init(
