@@ -9,7 +9,7 @@ class User extends Model {
         //-- verifying that the password passed in the argument matches the user's hashed password --//
         return bcrypt.compareSync(loginPw, this.password);
     }
-}
+};
 
 //--- Properties and Data Types ---//
 User.init(
