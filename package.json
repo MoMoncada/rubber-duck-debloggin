@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoMoncada/tech-blog.git"
+    "url": "https://github.com/MoMoncada/tech-blog.git"
   },
   "author": "Mauxi Moncada",
   "license": "MIT",
