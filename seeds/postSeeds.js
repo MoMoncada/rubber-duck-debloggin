@@ -5,7 +5,7 @@ const { Post } = require('../models');
 const postsData = [
     {
         title: 'JS for dummies',
-        description: 'I love javascript!',
+        description: 'I love !',
         user_id: 1
     },
     {
