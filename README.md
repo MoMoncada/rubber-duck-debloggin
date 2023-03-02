@@ -55,7 +55,7 @@ DB_PW=<your mysql password>
 
 ### GitHub: https://github.com/MoMoncada/rubber-duck-debloggin
 
-### Deployed Page:
+### Deployed Page: https://mysterious-earth-71724.herokuapp.com/
 ---------------------
 
 
