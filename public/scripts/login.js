@@ -5,7 +5,7 @@ async function loginFormHandler(event) {
     const password = document.querySelector('#password-login').value.trim();
   
     if (email && password) {
-      const response = await fetch('/api/userRoutes/login', {
+      const response = await fetch('/api/users/login', {
         method: 'post',
         body: JSON.stringify({
           email,
@@ -30,7 +30,7 @@ async function loginFormHandler(event) {
     const password = document.querySelector('#password-signup').value.trim();
   
     if (username && email && password) {
-      const response = await fetch('/api/userRoutes', {
+      const response = await fetch('/api/users', {
         method: 'post',
         body: JSON.stringify({
           username,
