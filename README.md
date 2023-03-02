@@ -66,7 +66,11 @@ DB_PW=<your mysql password>
 
 ### Homepage
 
-![]
+![homepage](./assets/homepage.png)
+
+### Comment Section
+
+![comment section](./assets/example.png)
 
 
 
